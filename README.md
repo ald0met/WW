@@ -1,2 +1,2 @@
-# WW
-Whisky Weather Hedging
+# Rainfall Ex
+rainfall exchange

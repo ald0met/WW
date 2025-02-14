@@ -1,0 +1,7 @@
+Country,EX Index,Optimal Lag,Ljung-Box p-value
+KOR,USD_Returns_Volatility,4,0.9890870821876911
+KOR,YUAN_Returns_Volatility,5,0.9980543577168532
+KOR,100Y_Returns_Volatility,1,0.998936255476961
+JPY,100Y_Returns_Volatility,5,0.9976886926984923
+USA,USD_Returns_Volatility,5,0.952362402261705
+CHN,YUAN_Returns_Volatility,5,0.9944997049412728

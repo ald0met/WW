@@ -1,2 +1,2 @@
 # Rainfall Volatility & Ex Volatility
-rainfall - exchange
+rainfall - exchange rate (volatility) ~ 25.02.24
